@@ -1,0 +1,6 @@
+{
+  "name": "VoxGen Pro - Synthèse Vocale",
+  "description": "Application professionnelle de synthèse vocale transformant le texte en voix off expressives (joie, colère, tristesse) avec options de téléchargement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Text-to-Speech", "Audio Export"]
+}
